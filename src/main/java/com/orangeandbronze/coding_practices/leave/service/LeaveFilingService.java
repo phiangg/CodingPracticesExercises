@@ -8,7 +8,6 @@ import java.util.*;
 
 import com.orangeandbronze.coding_practices.leave.domain.*;
 import com.orangeandbronze.coding_practices.leave.domain.LeaveApplication.Status;
-import com.orangeandbronze.coding_practices.leave.exceptions.*;
 import com.orangeandbronze.coding_practices.leave.repositories.*;
 
 /* TODO Notice that all the methods have to declare 'throws SQLException' since that's what the repository code throws. 

@@ -1,4 +1,4 @@
-package com.orangeandbronze.coding_practices.leave.exceptions;
+package com.orangeandbronze.coding_practices.leave.domain;
 
 import com.orangeandbronze.coding_practices.leave.domain.*;
 

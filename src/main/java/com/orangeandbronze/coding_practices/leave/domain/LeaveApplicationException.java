@@ -1,4 +1,4 @@
-package com.orangeandbronze.coding_practices.leave.exceptions;
+package com.orangeandbronze.coding_practices.leave.domain;
 
 /* TODO Exceptions should be in the same package as the classes that throw them. 
  * Move these exceptions to the proper package.  */

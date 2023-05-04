@@ -3,8 +3,6 @@ package com.orangeandbronze.coding_practices.leave.domain;
 import java.time.*;
 import java.util.*;
 
-import com.orangeandbronze.coding_practices.leave.exceptions.*;
-
 public class LeaveApplication {
 
 	public enum Status {
